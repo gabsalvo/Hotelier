@@ -1,20 +1,11 @@
 [
   {
-    "username": "gab",
+    "username": "gabriele",
     "livello": 1,
-    "numero_recensioni_fatte": 0,
+    "numero_recensioni_fatte": 1,
     "coppia": {
-      "seme": "126692706",
-      "res": "afb91ffb41ed3390f31a54bd525dca6e12bcdce99c1225884c24312617af965f"
-    }
-  },
-  {
-    "username": "Gabriele",
-    "livello": 1,
-    "numero_recensioni_fatte": 0,
-    "coppia": {
-      "seme": "916773116",
-      "res": "197a0f0a2723e37808cfb0e4bc8c25694deec768cde6abca5d57ada0e8609ebb"
+      "seme": "529678744",
+      "res": "361a33a0564b3015fbc26e65dbc1eb87ae617ffdb3f6fafe56e003465e0913d4"
     }
   }
 ]

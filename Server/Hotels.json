@@ -47,12 +47,12 @@
     "descrizione": "Un grazioso hotel a Aosta, in Via Leonardo da Vinci, 87",
     "telefono": "393-2959804",
     "servizi": [],
-    "rate": 0,
+    "rate": 2,
     "ratings": {
-      "pulizia": 0,
-      "posizione": 0,
-      "servizi": 0,
-      "prezzo": 0
+      "pulizia": 2,
+      "posizione": 2,
+      "servizi": 2,
+      "prezzo": 2
     }
   },
   {
